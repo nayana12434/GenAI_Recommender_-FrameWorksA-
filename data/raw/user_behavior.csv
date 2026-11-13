@@ -1,0 +1,14 @@
+
+User_ID,Session_ID,Product_ID,Event_Type,Event_Timestamp,Device,Quantity
+U001,S001,P001,view,2026-10-01 09:10:00,Mobile,0
+U002,S002,P002,click,2026-10-01 09:15:00,Desktop,0
+U003,S003,P003,add_to_cart,2026-10-01 09:20:00,Mobile,0
+U004,S004,P004,purchase,2026-10-01 09:30:00,Tablet,1
+U001,S001,P002,view,2026-10-01 09:35:00,Mobile,0
+U005,S005,P005,click,2026-10-01 10:00:00,Desktop,0
+U006,S006,P001,purchase,2026-10-01 10:15:00,Mobile,1
+U007,S007,P006,view,2026-10-01 10:30:00,Tablet,0
+U008,S008,P007,add_to_cart,2026-10-01 10:45:00,Desktop,0
+U009,S009,P008,purchase,2026-10-01 11:00:00,Mobile,1
+U010,S010,P009,view,2026-10-01 11:15:00,Desktop,0
+U002,S002,P003,click,2026-10-01 11:30:00,Tablet,0

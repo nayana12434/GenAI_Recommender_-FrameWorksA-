@@ -1,0 +1,38 @@
+# Python virtual environments
+.venv/
+.venv*/
+venv/
+env/
+ENV/
+
+# Python cache and notebook checkpoints
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environment variables and credentials
+.DS_Store
+.env
+.env.*
+!.env.example
+secrets.toml
+secrets.*.toml
+credentials.json
+*credentials*.json
+*.secret
+*.key
+*.pem
+*.p12
+*.pfx
+password.txt
+passwords.txt
+api_keys.*
+apikeys.*
+
+# Temporary files, logs, and editor backups
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+~$*
