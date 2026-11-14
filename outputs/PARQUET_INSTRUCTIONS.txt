@@ -1,0 +1,3 @@
+The script generates product_features.parquet automatically when pyarrow is installed.
+From the project root run: pip install pyarrow
+Then run: python src/person5_product_feature_engineering.py
