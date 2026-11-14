@@ -1,0 +1,22 @@
+Product_ID,Product_Name,Category,Material,Colour,Style,Price,Discount,Rating,Room_Type
+P001,Modern Sofa,Sofa,Fabric,Beige,Modern,28500.0,10.0,4.5,Living Room
+P002,Wooden Dining Table,Dining Table,Sheesham Wood,Brown,Traditional,32000.0,,4.6,Dining Room
+P003,Queen Size Bed,Bed,Engineered Wood,Walnut,Contemporary,41000.0,5.0,4.4,Bedroom
+P004,Office Chair,Chair,Mesh,Black,Modern,,10.0,4.2,Study Room
+P005,Bookshelf,Storage,Plywood,White,Minimalist,8500.0,0.0,4.1,Study Room
+P006,Coffee Table,Table,Solid Wood,Natural,Rustic,9500.0,12.0,4.3,Living Room
+P007,Two Seater Sofa,sofa,Velvet,Green,Modern,22000.0,8.0,4.4,Living Room
+P008,Bedside Table,Storage,MDF,White,Minimalist,4200.0,5.0,4.0,Bedroom
+P009,Recliner Chair,Chair,Leather,Brown,Contemporary,26000.0,10.0,4.7,Living Room
+P010,Wardrobe,Storage,Engineered Wood,Grey,Modern,35000.0,15.0,4.3,Bedroom
+P011,study desk,Table,Plywood,Oak,Modern,12000.0,10.0,4.2,Study Room
+P012,Bookshelf,Storage,Plywood,White,Minimalist,8500.0,0.0,4.1,Study Room
+P013,Dining Chair,Chair,Teak Wood,Brown,Traditional,4800.0,5.0,4.5,Dining Room
+P014,TV Unit,Storage,Engineered Wood,Black,Contemporary,14500.0,10.0,4.2,Living Room
+P015,King Size Bed,Bed,Solid Wood,Dark Brown,Traditional,52000.0,12.0,4.8,Bedroom
+P016,Floor Lamp,Lighting,Metal,Gold,Industrial,3800.0,0.0,4.0,Living Room
+P017,Outdoor Bench,Bench,Teak Wood,Natural,Rustic,11000.0,5.0,4.3,Outdoor
+P018,Shoe Rack,Storage,Plywood,White,Modern,5600.0,10.0,4.1,Entryway
+P019,Accent Chair,Chair,Linen,Blue,Scandinavian,13500.0,8.0,4.4,Living Room
+P020,Console Table,Table,Solid Wood,Brown,Traditional,16000.0,10.0,4.5,Entryway
+P001,Modern Sofa,Sofa,Fabric,Beige,Modern,28500.0,10.0,4.5,Living Room

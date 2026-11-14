@@ -1,0 +1,11 @@
+user_id,Total_Purchases,Total_Spending,Total_Quantity,Average_Order_Value,Purchase_Frequency,Unpriced_Purchase_Events
+U001,0,0.0,0,0.0,0,0
+U002,0,0.0,0,0.0,0,0
+U003,0,0.0,0,0.0,0,0
+U004,1,,1,,1,1
+U005,0,0.0,0,0.0,0,0
+U006,1,28500.0,1,28500.0,1,0
+U007,0,0.0,0,0.0,0,0
+U008,0,0.0,0,0.0,0,0
+U009,1,4200.0,1,4200.0,1,0
+U010,0,0.0,0,0.0,0,0
